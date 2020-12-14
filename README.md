@@ -16,6 +16,6 @@ You can customize how the game plays by changing the values in the `src/resource
 
 # Example Screenshots
 
-![Start Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/StartScreen.png)
-![In Game Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/GameScreen.png)
-![End Game Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/EndScreen.png)
+![Start Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/StartScreen.PNG)
+![In Game Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/GameScreen.PNG)
+![End Game Screen Image](https://github.com/reesealanj/alien-attack-game/blob/master/img/EndScreen.PNG)
